@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubNew\\12\\Heroes Of Mavia\\Mavia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{590ED63D-6690-4D70-B101-D1AE3D4C2A20}|Heroes-Mavia-Exp\\Form11\\Form1.csproj|d:\\githubnew\\12\\heroes of mavia\\mavia\\heroes-mavia-exp\\form11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{590ED63D-6690-4D70-B101-D1AE3D4C2A20}|Heroes-Mavia-Exp\\Form11\\Form1.csproj|solutionrelative:heroes-mavia-exp\\form11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BD7D9A-C7FD-429E-936A-E4E82C59CDBD}|Heroes-Mavia-Exp\\Heroes-Of-Mavia.csproj|d:\\githubnew\\12\\heroes of mavia\\mavia\\heroes-mavia-exp\\randomfiller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62BD7D9A-C7FD-429E-936A-E4E82C59CDBD}|Heroes-Mavia-Exp\\Heroes-Of-Mavia.csproj|solutionrelative:heroes-mavia-exp\\randomfiller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GithubNew\\12\\Heroes Of Mavia\\Mavia\\Heroes-Mavia-Exp\\Form11\\Form1.cs",
+              "RelativeDocumentMoniker": "Heroes-Mavia-Exp\\Form11\\Form1.cs",
+              "ToolTip": "D:\\GithubNew\\12\\Heroes Of Mavia\\Mavia\\Heroes-Mavia-Exp\\Form11\\Form1.cs [Design]",
+              "RelativeToolTip": "Heroes-Mavia-Exp\\Form11\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:27:03.787Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RandomFiller.cpp",
+              "DocumentMoniker": "D:\\GithubNew\\12\\Heroes Of Mavia\\Mavia\\Heroes-Mavia-Exp\\RandomFiller.cpp",
+              "RelativeDocumentMoniker": "Heroes-Mavia-Exp\\RandomFiller.cpp",
+              "ToolTip": "D:\\GithubNew\\12\\Heroes Of Mavia\\Mavia\\Heroes-Mavia-Exp\\RandomFiller.cpp",
+              "RelativeToolTip": "Heroes-Mavia-Exp\\RandomFiller.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T18:27:02.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
