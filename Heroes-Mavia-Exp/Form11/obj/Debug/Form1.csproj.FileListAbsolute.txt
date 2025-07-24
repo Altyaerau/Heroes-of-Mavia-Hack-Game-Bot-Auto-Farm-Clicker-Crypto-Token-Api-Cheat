@@ -1,0 +1,2 @@
+D:\GithubNew\12\Heroes Of Mavia\Mavia\Heroes-Mavia-Exp\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\12\Heroes Of Mavia\Mavia\Heroes-Mavia-Exp\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
